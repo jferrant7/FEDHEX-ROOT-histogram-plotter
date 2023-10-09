@@ -3,4 +3,5 @@ Converts ROOT data from Darshan's script to histogram form, applies a modified C
 displays compared plots and stat-test values in Root canvases
 
 To run:
-python 
+python flows_gen_vs_training.py <input root file>
+
